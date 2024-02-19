@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Bachelor of Science (B.Sc) majoring in Physics (Computational and Modelling Physics)
 ------------------------------------------------------------------------------------
 
-Excited and Highly Motivated in field of Computational Physics, Deep Learning, Image Processing (especially in Medical Imaging), Machine Learning, and Computer Vision.
+Excited and Highly Motivated in field of **Computational Physics, Deep Learning, Image Processing (especially in Medical Imaging), Machine Learning, and Computer Vision**.
 
 *   🌍  I'm based in **Banyuwangi, Indonesia**
 *   ✉️  You can contact me at [panduhafizh48@gmail.com](mailto:panduhafizh48@gmail.com)
