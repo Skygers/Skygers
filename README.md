@@ -1,8 +1,6 @@
 <h1 align="left">Hello, mate!!! 🤖</h1>
 
-###
-
-<h3 align="left">My name is Pandu Hafizh Ananta. I'm from Indonesia, living in Banyuwangi who excited and Highly Motivated in field of  Computational Physics, Deep Learning, Image Processing (especially in Medical Imaging), Machine Learning, and Computer Vision.<br><br>*   ✉️  You can contact me at [panduhafizh48@gmail.com](mailto:panduhafizh48@gmail.com)<br>*   🧠  I'm learning **Tensorflow, Pytorch, Matminer, Material Project, ect**<br>*   🤝  I'm open to collaborating on **computer vision applied to the medical field, machine learning, material synthesis exploration, battery composition, and beyond**.<br>*   ⚡  Why did the scarecrow win an award?</h3>
+<p align="left">My name is Pandu Hafizh Ananta. I'm from Indonesia, living in Banyuwangi who excited and Highly Motivated in field of  Computational Physics, Deep Learning, Image Processing (especially in Medical Imaging), Machine Learning, and Computer Vision.<br><br>*   ✉️  You can contact me at [panduhafizh48@gmail.com](mailto:panduhafizh48@gmail.com)<br>*   🧠  I'm learning **Tensorflow, Pytorch, Matminer, Material Project, ect**<br>*   🤝  I'm open to collaborating on **computer vision applied to the medical field, machine learning, material synthesis exploration, battery composition, and beyond**.<br>*   ⚡  Why did the scarecrow win an award?</h3>
 
 ###
 
