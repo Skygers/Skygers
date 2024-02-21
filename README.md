@@ -1,7 +1,7 @@
 Hello, folks![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================================
 
-My name is Pandu Hafizh Ananta\
+I'm Pandu Hafizh Ananta\
 Bachelor of Science (B.Sc) majoring in Physics (Computational and Modelling Physics)
 ------------------------------------------------------------------------------------
 Excited and Highly Motivated in field of **Computational Physics, Deep Learning, Image Processing (especially in Medical Imaging), Machine Learning, and Computer Vision**.
