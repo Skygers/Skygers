@@ -6,5 +6,5 @@ Excited and Highly Motivated in field of **Computational Physics, Deep Learning,
 
 *   🌍  I'm based in **Banyuwangi, Indonesia**
 *   ✉️  You can contact me at [panduhafizh48@gmail.com](mailto:panduhafizh48@gmail.com)
-*   🧠  I'm learning **Tensorflow, Pytorch, Matminer, Material Project, ect**
+*   🧠  I'm learning **Tensorflow, Pytorch, Matminer, Material Project, etc**
 *   🤝  I'm open to collaborating on **computer vision applied to the medical field, machine learning, material synthesis exploration, battery composition, and beyond**.
