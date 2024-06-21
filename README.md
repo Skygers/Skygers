@@ -1,4 +1,3 @@
-===========================================================================================================================================
 
 I'm Pandu Hafizh Ananta\
 Bachelor of Science (B.Sc) majoring in Physics (Computational and Modelling Physics)
